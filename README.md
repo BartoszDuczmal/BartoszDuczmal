@@ -1,5 +1,10 @@
 # Hi there, I'm Bartosz 👋
 16yo student of programming high-school
+
+
+##
+
+## 🔬💻🖥📌 Recent projects:
 <!--
 **BartoszDuczmal/BartoszDuczmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
