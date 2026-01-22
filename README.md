@@ -9,4 +9,4 @@
 <img width="75" height="75" alt="c++" src="https://github.com/user-attachments/assets/6612afdf-77c4-4821-963c-91fc1d828ea8" />
 
 ## 📂 Recent projects
-[mobile-app](https://github.com/BartoszDuczmal/mobile-app) -> Facebook-like social networking app
+[mobile-app](https://github.com/BartoszDuczmal/mobile-app) - Facebook-like social networking app
