@@ -4,7 +4,7 @@
 
 ##
 
-### 📂 ## Recent projects:
+<h1>📂</h1><h2>Recent projects:</h2>
 <!--
 **BartoszDuczmal/BartoszDuczmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
